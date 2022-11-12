@@ -9,6 +9,6 @@ code ve hanh tinh
 
 #Preview #Xem trước code bằng việc click vào link bên dưới !
 
-https://lazykaze.github.io/Code-Galaxy/
-or
-https://codepen.io/LazyKaze/pen/rNKyPmb
+Space  : https://codepen.io/LazyKaze/pen/rNKyPmb
+-----
+Planet : https://codepen.io/LazyKaze/pen/wvXdEVo
